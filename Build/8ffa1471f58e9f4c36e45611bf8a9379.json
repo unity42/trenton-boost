@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Trenton_Project_Boost",
+"dataUrl": "7cc9a8287f40115fc1e7dd838586c1f0.unityweb",
+"wasmCodeUrl": "5daff71b3ba1ccb983788fd1a2396d0e.unityweb",
+"wasmFrameworkUrl": "453cb50d46ba7be124ee379480c783c8.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
